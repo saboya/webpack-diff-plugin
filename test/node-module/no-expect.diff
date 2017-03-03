@@ -1,0 +1,16 @@
+--- node_modules/chai/lib/chai.js	2016-01-28 09:54:27.000000000 -0200
++++ test/node-module/chai.js	2017-03-03 03:01:33.865689714 -0300
+@@ -72,13 +72,6 @@
+ exports.use(core);
+ 
+ /*!
+- * Expect interface
+- */
+-
+-var expect = require('./chai/interface/expect');
+-exports.use(expect);
+-
+-/*!
+  * Should interface
+  */
+ 

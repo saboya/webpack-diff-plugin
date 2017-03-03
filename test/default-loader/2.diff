@@ -1,0 +1,9 @@
+--- test/default-loader/entry.js	2017-03-02 20:46:34.576190486 -0300
++++ test/default-loader/entry2.js	2017-03-02 20:47:25.757836536 -0300
+@@ -1,5 +1,5 @@
+ module.exports = [
+   'abc',
+   'def',
+-  'ghi'
++  'jkl'
+ ]
