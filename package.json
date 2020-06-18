@@ -1,6 +1,6 @@
 {
   "name": "webpack-diff-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Diff plugin for Webpack",
   "main": "lib/index.js",
   "scripts": {
